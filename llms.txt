@@ -28,6 +28,9 @@
 - [Choosing an attorney for estate planning Leawood](https://local-business-guides.github.io/the-eastman-law-firm-leawood/attorney-for-estate-planning-leawood/): An attorney for estate planning Leawood can help you prepare for your family's future in Leawood, Kansas.
 - [Questions for an estate planning attorney near me](https://local-business-guides.github.io/the-eastman-law-firm-leawood/estate-planning-attorney-near-me/): An estate planning attorney near me can help organize your next steps and discuss your goals in Leawood, Kansas.
 
+## Newsroom
+- [Leawood Firm Releases Estate Planning Guide and New Media](https://local-business-guides.github.io/the-eastman-law-firm-leawood/news/2026-10-27-leawood-firm-releases-estate-planning-guide-and-ne/): The Eastman Law Firm published an estate planning guide, a YouTube video and a podcast episode for people in Leawood and nearby communities. (2026-10-27)
+
 ## Pages
 - [Estate Planning Leawood, KS in Kansas](https://local-business-guides.github.io/the-eastman-law-firm-leawood/): Build a thoughtful estate plan with legal guidance rooted in Leawood and focused on your peace of mind. Call +1913-908-9113.
 - [About The Eastman Law Firm](https://local-business-guides.github.io/the-eastman-law-firm-leawood/about/): About The Eastman Law Firm, Leawood.
@@ -35,3 +38,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/the-eastman-law-firm-leawood/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/the-eastman-law-firm-leawood/news/rss.xml)
+- [Main resource site](https://eastman-law-leawood.warmape5.chatgpt.site)

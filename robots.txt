@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/the-eastman-law-firm-leawood/sitemap.xml
+Sitemap: https://local-business-guides.github.io/the-eastman-law-firm-leawood/news-sitemap.xml
